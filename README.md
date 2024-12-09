@@ -22,6 +22,5 @@
 [![](https://visitcount.itsvg.in/api?id=VanHoangDN&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰You can help me by Donating
-  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a Coffee', '#72a4f2', 'A0A416FCMO');kofiwidget2.draw();</script> 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/aslandn) 
   
